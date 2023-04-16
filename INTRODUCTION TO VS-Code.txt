@@ -1,0 +1,51 @@
+//VISUAL STUDIO CODE(VS-Code)
+
+
+
+
+                                                   VISUAL STUDIO CODE(VS-Code)
+												   ===========================
+- Software Applications Used for Java-Script
+  =>Atom
+  =>VS-Code
+  =>Eclipse
+  =>Sublime Text
+  =>Brackets
+  =>Net-Beans
+  =>VIM
+
+- Visual Studio Code was first announced on April 29,2015 by Microsoft at the Build conference.
+
+- On November 18, 2015 the source of Visual Studio Code was released under the MIT License, and made available on GitHub.
+
+- Visual Studio Code is a source-code editor that can be used with a variety of programming languages including,
+  =>C#(C-Sharp)
+  =>Java
+  =>JS(Java-Script)
+  =>HTML(Hyper Text Mark-Up Language)
+  =>CSS(Cascaded Style Sheets)
+  =>Dart
+  =>Dockerfile
+  =>Type-Script
+  =>T-SQL(Transact Structured Query Language)
+  =>JSON(Java-Script Object Notation)
+  =>PowerShell
+  =>GO(GoLang)
+  =>Ruby
+  =>C
+  =>C++
+  =>Python
+  =>PHP(Personal Home Page/Hyper-Text Pre-Processor)
+
+- VS-Code is a source-code editor.
+
+- Made by Microsoft with the Electron Framework, for Windows, Linux and macOS.
+
+- Features of VS-Code
+  =>Debugging
+  =>Syntax Highlighting
+  =>Intelligent Code Completion
+  =>Snippets
+  =>Code Refactoring
+  =>Embedded Git
+  =>Install extensions that add additional functionality. 

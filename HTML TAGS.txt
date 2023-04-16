@@ -1,0 +1,107 @@
+//HTML-TAGS
+
+
+
+                                                    HTML-TAGS
+													=========
+- what is tag in HTML?
+  An HTML tag is a piece of markup language used to indicate the beginning and end of an HTML element in an HTML document.
+  HTML tags are like keywords which defines that how web browser will format and display the content.
+  
+- =>The first version consisted of 18 HTML tags.
+  =>There are currently about 140 HTML tags, although not all of them are supported by modern browsers.
+  
+TAGS>>
+======
+1) <!DOCTYPE html> : Declaration before the <html> tag.
+                     Tag is used to inform the browser about the version of HTML used in the document. 
+					 It is called as the document type declaration (DTD).
+                     Technically <!DOCTYPE > is not a tag/element, 
+					 It just an instruction to the browser about the document type. 
+					 It is a null element which does not contain the closing tag, and must not include any content within it.
+   <html lang="en">: The lang attribute specifies the language of the element's content. 
+                     Common examples are "en" for English, "es" for Spanish, "fr" for French and so on.
+					 
+2) <html> : The <html> tag represents the root of an HTML document. 
+            The <html> tag is the container for all other HTML elements (except for the <!DOCTYPE> tag).
+
+3) <body> : The body tag in HTML is used to define the main content present inside an HTML page.
+
+4) <b> : Bolding the Sentences/Words/Paragraph inside that tag
+
+5) <i> : Changes content into italics style font 
+
+6) <title> : The title tag in HTML is used to define the title of HTML document. 
+             It sets the title in the browser toolbar.
+			 The title must be text-only.
+			 Provides a title for the page when it is added to favorites.
+             Displays a title for the page in search-engine results.
+			 You can NOT have more than one <title> element in an HTML document.
+			 
+7) <head> : The head tag in HTML is used to define the head portion of the document which contains information related to the document.
+
+8) <header> : The header tag is used to contain the information related to the title and heading of the related content.
+
+9) <heading> : An HTML heading tag is used to define the headings of a page. 
+               These 6 heading elements are h1, h2, h3, h4, h5, and h6 with h1 being the highest level and h6 being the least.	
+			   <h1>Highest-level Font Size</h1>
+			   <h2>Highest-level</h2>
+			   <h3>Highest-level</h3>
+			   <h4>Highest-level</h4>
+			   <h5>Highest-level</h5>
+			   <h6>Lowest-level Font Size</h6>
+			   
+10) <hgroup> : The hgroup tag in HTML is used to wrap one or more heading elements from <h1> to <h6>, 
+               such as the headings and sub-headings.
+			   
+11) <a> : The anchor tag in HTML is used to create a hyperlink on the webpage.
+
+12) <abbr> : The abbreviation tag in HTML is used to define the abbreviation or short form of an element.
+
+13) <acronym> : The acronym tag in HTML is used to define the acronym that gives useful information to browsers, translation systems, and search engines.
+
+14) <address> : The <address> tag defines the contact information for the author/owner of a document or an article. 
+                The contact information can be an email address, URL, physical address, phone number, social media handle, etc.
+				
+15) <br> : The break tag inserts a single carriage return or breaks in the document. 
+           This element has no end tag.
+
+16) <button> : The button tag in HTML is used to define the clickable button.
+               <button> tag is used to submit the content.	
+
+17) <u> : Underlining tag
+
+18) <div> : The <div> tag defines a division or a section in an HTML document. 
+            The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript. 
+            The <div> tag is easily styled by using the class or id attribute. 
+			Any sort of content can be put inside the <div> tag!	
+
+19) <style> : The style tag in HTML helps us to design the web page.
+              The <style> tag is used to define style information (CSS) for a document.
+
+20) <link> : The <link> tag defines the relationship between the current document and an external resource. 
+             The <link> tag is most often used to link to external style sheets or to add a favicon to your website. 
+             The <link> element is an empty element, it contains attributes only.	
+
+21) <span> : The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
+             The <span> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
+             The <span> tag is much like the <div> element, but <div> is a block-level element and <span> is an inline element.	
+             This tag is mainly used to change color inbetween the paragraphs or lines.		
+22)	<label> : The <label> tag in HTML is used to provide a usability improvement for mouse users
+              i.e, if a user clicks on the text within the <label> element, it toggles the control. 
+              The <label> tag defines the label for <button>, <input>, <meter>, <output>, <progress>, <select>, or <textarea> element.
+
+23) <form> : The <form> tag is used to create an HTML form for user input.
+             HTML forms are required if you want to collect some data from of the site visitor.
+             The <form> element can contain one or more of the following form elements:
+             <input>
+             <textarea>
+             <button>
+             <select>
+             <option>
+             <optgroup>
+             <fieldset>
+             <label>
+             <output>
+			 An HTML form is a section of a document which contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc.
+             An HTML form facilitates the user to enter data that is to be sent to the server for processing such as name, email address, password, phone number, etc. .

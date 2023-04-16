@@ -1,0 +1,105 @@
+//FILE EXTENSIONS
+
+
+
+                                                  FILE EXTENSIONS
+												  ===============
+- A file extension is the ending part of a computer file's name.
+- Regardless of whether your job directly requires IT-related knowledge and skills, 
+  learning about file extensions can help you gain a better understanding of the way most personal computers function.
+
+DEFINITION:-
+------------
+- A file extension is the suffix of a computer file that an operating system uses to identify the exact file type.
+- When executing the respective file, 
+  the file extension tells the operating system which software application to open, depending on the file type.
+- The file extension is typically two to four letters long.
+- A period(.) separates it from the name of the file.
+
+TYPES OF FILES:-
+----------------
+#Word/Text Based files
+#System Based files
+#Image Based files
+#Video Based files
+#Audio Based files
+#Program Based files
+#Execution Based files
+#Internet Based files
+
+WORD/TEXT BASED FILES:
+----------------------
+.doc and .docx (Microsoft Word file)
+.pdf (Adobe Portable Document Format file)
+.rtf (Rich Text Format file)
+.txt (simple text file)
+.wpd (Word Perfect document file)
+
+SYSTEM BASED FILES:
+-------------------
+.sys (Windows system file)
+.tmp (temporary file)
+.icns (icon resource files in macOS)
+.ini (initialization file)
+.cfg (configuration file)
+.msi (Windows installer package file)
+.ico (Windows icon file)
+.dll (dynamic-link library file)
+
+IMAGE BASED FILES:
+------------------
+JPEG (or JPG) - Joint Photographic Experts Group
+PNG - Portable Network Graphics
+GIF - Graphics Interchange Format
+TIFF - Tagged Image File
+PSD - Photoshop Document
+PDF - Portable Document Format
+EPS - Encapsulated Postscript
+AI - Adobe Illustrator Document
+INDD - Adobe Indesign Document
+RAW - Raw Image Formats
+
+VIDEO BASED FILES:
+------------------
+.avi (Audio Video Interleave video file)
+.mpg and .mpeg (Moving Picture Experts Group video file)
+.wmv (Windows Media video file)
+.vob (DVD Video Object file)
+.flv (Adobe Flash file)
+.3gp (Third Generation Partnership Project multimedia file)
+
+AUDIO BASED FILES:
+------------------
+.mp3 (MPEG-1 Audio Layer 3 audio file)
+.wma (Windows Media audio file)
+.wpl (Windows Media Player playlist file)
+.wav (Waveform audio file)
+.mid and .midi (Musical Instrument Digital Interface audio file)
+
+PROGRAM BASED FILES:
+--------------------
+.c (C and C++ source code files)
+.java (Java source code file)
+.py (Python script file)
+.cs (Visual C# source code file)
+.PHP (PHP: Hypertext Preprocessor script file)
+.swift (Swift source code file)
+.vb (Visual Basic file)
+
+EXECUTION BASED FILES:
+----------------------
+.exe (common Windows executable file)
+.apk (Android package file)
+.com (MS-DOS command line file)
+.wsf (Windows script file)
+.bin (binary file)
+.bat (batch file)
+
+INTERNET BASED FILES:
+---------------------
+.htm and .html (HyperText Markup Language files)
+.xhtml (Extensible HTML file)
+.rss (Really Simple Syndication file)
+.css (Cascading Style Sheets file)
+.cer (internet security certificate)
+.asp and .aspx (Active Server Page files)

@@ -1,0 +1,30 @@
+//BASIC HTML PROGRAMS
+
+
+
+                                            BASIC HTML PROGRAMS
+											===================
+Example:-
+---------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>DATA</title>
+</head>
+<style>
+    .style {
+        text-align: center;
+        height: 500px;
+        width: 800px;
+        background-color: aqua;
+    }
+</style>
+<body>
+    <div class="style">
+        <h style="background-color: blueviolet;">More Details</h>
+        <p><i>The Details are Nothing <br> But about Raghavendran <br> Stupid boy</i></p>
+     </div>
+    <script src="./sample.js"></script>
+    <button type="button" onclick="addition()">Dare Me</button>
+</body>
+</html>

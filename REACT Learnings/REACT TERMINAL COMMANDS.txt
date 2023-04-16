@@ -1,0 +1,18 @@
+//REACT TERMINAL COMMANDS 
+
+
+
+
+                                                 REACT TERMINAL COMMANDS
+                                                 =======================
+CREATION OF REACT-PROJECT:-
+---------------------------
+                  npx create-react-app appliaction_name
+
+RUNNING COMMAND FOR REACT-APPLICATION:-
+---------------------------------------
+                  npm start
+
+ROUTER CREATION COMMAND:-
+-------------------------
+                  npm i react-router-dom				  

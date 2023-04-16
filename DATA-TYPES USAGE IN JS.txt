@@ -1,0 +1,16 @@
+//Data-Types Usage In JS
+
+
+
+                                           Data-Types Usage In JS
+										   ======================
+SCOPE:-
+-------
+Scope stands for where our variable will be available to use inside our code and where it will not.
+
+var:-
+-----
+What is the var Variable in JS?
+- Var variable is the old way to declare a variable in javascript. 
+- var variable has the function scope.
+- But global scope when it is declared outside the function.
